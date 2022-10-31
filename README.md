@@ -26,7 +26,7 @@ $cd todolist
 $yarn install
 ```
 
-### Compila e recarrega a quente para desenvolvimento
+### Compila e recarrega o projeto para desenvolvimento
 
 ```bash
 $yarn serve
