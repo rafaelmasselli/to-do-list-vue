@@ -14,22 +14,22 @@
 
 ### Clone o projeto
 
-```bash
-$git clone https://github.com/rafaelmasselli/FrontEnd-Todo-list-VueJs
+```powershell
+$ git clone https://github.com/rafaelmasselli/FrontEnd-Todo-list-VueJs
 #Entre na pasta
-$cd todolist
+$ cd todolist
 ```
 
 ### Instalando as dependencies
 
-```bash
-$yarn install
+```powershell
+$ yarn install
 ```
 
 ### Compila e recarrega o projeto para desenvolvimento
 
-```bash
-$yarn serve
+```powershell
+$ yarn serve
 ```
 
 ### E assim ira abrir o projeto
@@ -38,14 +38,14 @@ $yarn serve
 
 ### Compila e minifica para produção
 
-```bash
-$yarn build
+```powershell
+$ yarn build
 ```
 
 ### Lints e corrige arquivos
 
-```bash
-$yarn lint
+```powershell
+$ yarn lint
 ```
 
 ## Personalizar configuração
