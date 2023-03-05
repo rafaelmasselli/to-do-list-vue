@@ -2,7 +2,7 @@
 
 ## 🗒️ Descrição do projeto
 
-### To-do-list feito em vue que armazena as informações em json no local storage
+### Um projeto todolist feito em Vue.js é uma aplicação web que permite aos usuários criar e gerenciar suas listas de tarefas pessoais
 
 ## Requisitos
 
